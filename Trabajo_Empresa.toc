@@ -1,7 +1,0 @@
-\select@language {spanish}
-\select@language {spanish}
-\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{2}
-\contentsline {section}{\numberline {2}Apartado}{2}
-\contentsline {subsection}{\numberline {2.1}Subapartado}{2}
-\contentsline {section}{\numberline {3}Apartado}{2}
-\contentsline {section}{\numberline {4}Apartado}{3}
