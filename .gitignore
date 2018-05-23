@@ -3,3 +3,7 @@
 *.synctex.gz
 *.toc
 
+*.blg
+
+*.pdf
+*/*.pdf
